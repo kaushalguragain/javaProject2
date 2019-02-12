@@ -8,8 +8,7 @@ DIfferent events like:
 4. keydown
 5. keyup
 6. mouseover
-7. keydown
-8. keyup etc
+
 
 were tested in the project
 
